@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+control to display 1 to 9 in led by switch
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
