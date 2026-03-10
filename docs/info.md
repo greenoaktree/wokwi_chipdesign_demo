@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+led display number 1 to 9 by switch change
 
 ## How to test
 
-Explain how to use your project
+change switch 1 to 8 
+the led will display number which is  binary value  of switch bit
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+none
